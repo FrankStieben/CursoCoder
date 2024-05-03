@@ -63,8 +63,8 @@ No requiere comandos de instalación
 
 ## FAQs
 
-Fuente usada: Titulo del dataset (kaggle):
-<a href="link de referencia del data cet" target="_blank" rel="noreferrer">https://www.kaggle.com/datasets/meirnizri/covid19-dataset?resource=download</a>
+Fuente usada: ufo-sightings-transformed (kaggle):
+<a href="link de referencia del data cet" target="_blank" rel="noreferrer">https://www.kaggle.com/code/jonwright13/ufo-sightings-transformed/data</a>
 
 
 <br>
